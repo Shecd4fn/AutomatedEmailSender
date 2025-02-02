@@ -1,5 +1,5 @@
 
-# Automated Email Sender with Contact Management
+# Automated email sender with contact management
 
 ## Overview
 
